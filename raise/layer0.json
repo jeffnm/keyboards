@@ -319,13 +319,13 @@
       "label": "DEL"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
       "keyCode": 57,
       "label": "CAPSLOCK",
       "verbose": "Caps Lock"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
     },
     {
       "keyCode": 80,
@@ -410,8 +410,8 @@
     0,
     0,
     0,
-    4,
     1,
+    4,
     7,
     3,
     14,
