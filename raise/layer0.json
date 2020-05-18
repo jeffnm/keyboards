@@ -68,8 +68,8 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 20,
@@ -80,21 +80,16 @@
       "label": "W"
     },
     {
-      "keyCode": 8,
-      "label": "E"
+      "keyCode": 9,
+      "label": "F"
     },
     {
-      "keyCode": 21,
-      "label": "R"
+      "keyCode": 19,
+      "label": "P"
     },
     {
-      "keyCode": 23,
-      "label": "T"
-    },
-    {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 5,
+      "label": "B"
     },
     {
       "keyCode": 0,
@@ -102,24 +97,29 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 28,
-      "label": "Y"
+      "keyCode": 0,
+      "label": "XXX",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 13,
+      "label": "J"
+    },
+    {
+      "keyCode": 15,
+      "label": "L"
     },
     {
       "keyCode": 24,
       "label": "U"
     },
     {
-      "keyCode": 12,
-      "label": "I"
+      "keyCode": 28,
+      "label": "Y"
     },
     {
-      "keyCode": 18,
-      "label": "O"
-    },
-    {
-      "keyCode": 19,
-      "label": "P"
+      "keyCode": 51,
+      "label": ";"
     },
     {
       "keyCode": 47,
@@ -134,25 +134,24 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 4,
       "label": "A"
     },
     {
+      "keyCode": 21,
+      "label": "R"
+    },
+    {
       "keyCode": 22,
       "label": "S"
     },
     {
-      "keyCode": 7,
-      "label": "D"
-    },
-    {
-      "keyCode": 9,
-      "label": "F"
+      "keyCode": 23,
+      "label": "T"
     },
     {
       "keyCode": 10,
@@ -174,24 +173,24 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 11,
-      "label": "H"
-    },
-    {
-      "keyCode": 13,
-      "label": "J"
-    },
-    {
       "keyCode": 14,
       "label": "K"
     },
     {
-      "keyCode": 15,
-      "label": "L"
+      "keyCode": 17,
+      "label": "N"
     },
     {
-      "keyCode": 51,
-      "label": ";"
+      "keyCode": 8,
+      "label": "E"
+    },
+    {
+      "keyCode": 12,
+      "label": "I"
+    },
+    {
+      "keyCode": 18,
+      "label": "O"
     },
     {
       "keyCode": 52,
@@ -224,14 +223,14 @@
       "label": "C"
     },
     {
+      "keyCode": 7,
+      "label": "D"
+    },
+    {
       "keyCode": 25,
       "label": "V"
     },
     {
-      "keyCode": 5,
-      "label": "B"
-    },
-    {
       "keyCode": 0,
       "label": "XXX",
       "verbose": "Disabled"
@@ -245,14 +244,14 @@
       "keyCode": 0,
       "label": "XXX",
       "verbose": "Disabled"
-    },
-    {
-      "keyCode": 17,
-      "label": "N"
     },
     {
       "keyCode": 16,
       "label": "M"
+    },
+    {
+      "keyCode": 11,
+      "label": "H"
     },
     {
       "keyCode": 54,
@@ -278,18 +277,19 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT GUI",
-      "verbose": "Left Gui"
-    },
-    {
       "keyCode": 226,
       "label": "LEFT ALT",
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 17452,
+      "label": "2",
+      "extraLabel": "SHIFTTO"
+    },
+    {
+      "keyCode": 227,
+      "label": "LEFT GUI",
+      "verbose": "Left Gui"
     },
     {
       "keyCode": 44,
@@ -301,14 +301,14 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 17409,
+      "label": "1",
+      "extraLabel": "LockTo"
+    },
+    {
       "keyCode": 42,
       "label": "BACKSPACE",
       "verbose": "Backspace"
-    },
-    {
-      "keyCode": 17458,
-      "label": "8",
-      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 40,
@@ -323,74 +323,69 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 80,
+      "label": "LEFT"
     },
     {
-      "keyCode": 231,
-      "label": "RIGHT GUI",
-      "verbose": "Right Gui"
+      "keyCode": 81,
+      "label": "DOWN"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LEDEFF."
+      "keyCode": 82,
+      "label": "UP"
     },
     {
-      "keyCode": 228,
-      "label": "RIGHT CTRL",
-      "verbose": "Right Control"
+      "keyCode": 79,
+      "label": "RIGHT"
     }
   ],
   "colormap": [
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    1,
-    1,
-    5,
-    6,
-    5,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     3,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
     4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
+    2,
+    1,
+    6,
+    7,
+    7,
+    4,
+    4,
+    10,
+    10,
+    10,
+    10,
+    3,
     4,
     4,
     4,
@@ -412,75 +407,76 @@
     4,
     4,
     0,
+    0,
+    0,
+    0,
     4,
-    4,
-    1,
     1,
     7,
     3,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14
   ],
   "palette": [
     {
