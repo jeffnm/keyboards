@@ -30,12 +30,12 @@
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -68,8 +68,8 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 20,
@@ -93,12 +93,12 @@
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -134,8 +134,8 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 4,
@@ -159,17 +159,17 @@
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -232,17 +232,17 @@
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
     },
     {
@@ -272,23 +272,24 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 224,
+      "label": "LEFT CTRL",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 227,
-      "label": "LEFT GUI",
-      "verbose": "Left Gui"
+      "label": "LEFT LINUX",
+      "verbose": "Left Linux"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 17451,
+      "label": "1",
+      "extraLabel": "SHIFTTO"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
+      "keyCode": 227,
+      "label": "LEFT LINUX",
+      "verbose": "Left Linux"
     },
     {
       "keyCode": 44,
@@ -296,8 +297,14 @@
     },
     {
       "keyCode": 0,
-      "label": "XXX",
+      "label": "NO KEY",
       "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 42,
@@ -305,182 +312,172 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 224,
-      "label": "LEFT CTRL",
-      "verbose": "Left Control"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
-      "keyCode": 80,
-      "label": "LEFT"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
-      "keyCode": 79,
-      "label": "RIGHT"
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 44,
       "label": "SPACE"
     },
     {
-      "keyCode": 229,
-      "label": "RIGHT SHIFT",
-      "extraLabel": "",
-      "verbose": "Right Shift"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 6166,
-      "label": "#6166"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
-      "keyCode": 17452,
-      "label": "2",
-      "extraLabel": "SHIFTTO"
-    },
-    {
-      "keyCode": 17409,
-      "label": "1",
-      "extraLabel": "LockTo"
+      "keyCode": 79,
+      "label": "→"
     }
   ],
   "colormap": [
-    6,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     3,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    8,
-    4,
-    4,
-    5,
-    5,
-    1,
-    0,
-    4,
-    4,
-    4,
     7,
     7,
     7,
     7,
+    7,
+    7,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     6,
-    6,
-    7,
-    4,
-    5,
-    5,
+    2,
     1,
     1,
+    12,
+    4,
+    12,
+    12,
+    7,
+    7,
+    7,
+    7,
+    3,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     5,
-    5,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
     0,
     0,
     0,
     0,
-    0,
-    0,
-    0,
-    5,
+    1,
+    4,
     5,
     3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    5,
-    5,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    5,
-    5,
-    5,
-    5,
-    5,
-    3
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
   ],
   "palette": [
     {
@@ -556,10 +553,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 65,
+      "g": 117,
+      "b": 5,
+      "rgb": "rgb(65, 117, 5)"
     },
     {
       "r": 0,

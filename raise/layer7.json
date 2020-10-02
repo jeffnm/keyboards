@@ -1,512 +1,619 @@
 {
   "keymap": [
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 1,
-      "label": "#1"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 256,
-      "label": "#256"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 53928,
-      "label": "#53928"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 6144,
-      "label": "#6144"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 10409,
-      "label": "#10409"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 773,
-      "label": "B",
-      "extraLabel": "C+A+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 257,
-      "label": "#257"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 62487,
-      "label": "#62487"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 8215,
-      "label": "#8215"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 17577,
-      "label": "#17577"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 33536,
-      "label": "#33536"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 256,
-      "label": "#256"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 256,
-      "label": "#256"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 20649,
-      "label": "#20649"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 516,
-      "label": "A",
-      "extraLabel": "A+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 257,
-      "label": "#257"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 4120,
-      "label": "U",
-      "extraLabel": "G+"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 55319,
-      "label": "#55319"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 33536,
-      "label": "#33536"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 19479,
-      "label": "#19479"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 29184,
-      "label": "#29184"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 256,
-      "label": "#256"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 1280,
-      "label": "#1280"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 49321,
-      "label": "#49321"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 55465,
-      "label": "#55465"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "XXX",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     }
   ],
   "colormap": [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
   ],
   "palette": [
     {
@@ -582,10 +689,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 65,
+      "g": 117,
+      "b": 5,
+      "rgb": "rgb(65, 117, 5)"
     },
     {
       "r": 0,
